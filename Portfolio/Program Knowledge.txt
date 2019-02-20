@@ -1,0 +1,11 @@
+3DS Max
+Blender
+
+Visual Studio - ASP.net
+		C++
+		C#
+		HTML
+		CSS
+
+Unity
+Unreal/Somewhat
