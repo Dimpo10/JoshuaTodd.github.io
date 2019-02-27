@@ -5,7 +5,8 @@
 
 ## Example of my code in C++
 
-`for (int counter2 = 0; counter2 < MC; counter2++)//first check if meteor is active
+```C++
+for (int counter2 = 0; counter2 < MC; counter2++)//first check if meteor is active
 	{
 		if (ma[counter2] == 1) // is meteor is active
 		{
@@ -50,7 +51,8 @@
 			}
 
 		}
-	}`
+	}
+```
 
 [Link](https://github.com/Dimpo10/dimpo10.github.io/blob/master/Portfolio/Meteors/Report.pdf) and ![Image](src)
 ```
