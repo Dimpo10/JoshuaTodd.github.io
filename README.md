@@ -15,5 +15,5 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/Dimpo10/dimpo10.github.io/blob/master/Portfolio/Meteors/Report.pdf) and ![Image](src)
 ```
