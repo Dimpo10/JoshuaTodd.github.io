@@ -1,18 +1,18 @@
-##About Me
+## About Me
 
 
 My name is Joshua Todd, I am a 21 year old student studying in the UK.
 Here I plan to showcase the work that I have completed and any ongoing projects.
 
 
-#Team Projects
+# Team Projects
 
-##Ink Samurai
+## Ink Samurai
 
-#Coding Skills
+# Coding Skills
 
-##Meteors
+## Meteors
 
-##Game of Life
+## Game of Life
 
-##Prime Numbers
+## Prime Numbers
