@@ -15,7 +15,7 @@ My role in the team was the Project Manager, the team is comprised of 7 members,
 
 In Ink Samurai the objective of the game is to survive as long as possible, the player has 3 lives as indicated in the top right corner of the screen. The core mechanic of the game is that you can only move when attacking, therefore movement is not possible if there is not an enemy in range. A score is given at the end and points are earned by defeating demons.
 
-This project has many features planned to imporve the gameplay experience, we expect a release by the end of May.
+This project has many features planned to improve the gameplay experience, we expect a release by the end of May.
 
 Below are images of the protoype mobile game Ink Samurai.
 
