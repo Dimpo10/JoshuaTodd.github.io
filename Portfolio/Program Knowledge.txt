@@ -1,11 +1,14 @@
 3DS Max
 Blender
+Photoshop
+Illustrator
 
 Visual Studio - ASP.net
 		C++
 		C#
 		HTML
 		CSS
+		XML
 
 Unity
 Unreal/Somewhat
