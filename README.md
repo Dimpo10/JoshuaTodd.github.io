@@ -52,7 +52,7 @@ Shown below is the visuals and a link to the specification document showing all 
 
 <img src="Portfolio/Meteors/earth.png">
 
-[Specification Document](https://github.com/JoshuaTodd.github.io/Portfolio/Meteors/Report.pdf)
+[Specification Document](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/Report.pdf)
 
 ## Game of Life
 
