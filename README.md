@@ -36,9 +36,21 @@ Below are images of the protoype mobile game Ink Samurai.
 
 ## Mechaten
 
+Mechaten is another game where I have taken the role of Project Manager. Mechaten is in the very early stages of development, it is a 3D fighting game set in a destructible city with inspiration taken from the 2002 title Godzilla: Save the Earth. It is being created by a team of 9 as a final end of year assignment with a release planned 20th May.
+
+*- Updates will appear when we are further into development.*
+
 # Coding Skills
 
 ## Meteors
+
+Meteors is a game written in C++ with Directx 9 DirectDraw in Visual Studio. It was part of one of my assignments on my foundation course.
+
+Shown below is the visuals and some code.
+
+<img src="Portfolio/Ink%20Samurai/Images/Screenshot_2019-02-27-18-03-02-277_com.Name.InkSamurai.png">
+
+<img src="Portfolio/Ink%20Samurai/Images/Screenshot_2019-02-27-18-02-38-137_com.Name.InkSamurai.png">
 
 ## Game of Life
 
