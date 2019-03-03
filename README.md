@@ -56,4 +56,17 @@ Shown below is the visuals and a link to the specification document showing all 
 
 ## Game of Life
 
+The game is a simulation to replicate the original game of life with the rules:
+
+* Any live cell with fewer than two live neighbors dies, as if by underpopulation.
+* Any live cell with two or three live neighbors lives on to the next generation.
+* Any live cell with more than three live neighbors dies, as if by overpopulation.
+* Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+
+There are also a few extra small simulations in the menu system.
+
+<img src="Portfolio/Meteors/Meteors.png">
+
+<img src="Portfolio/Meteors/earth.png">
+
 ## Prime Numbers
