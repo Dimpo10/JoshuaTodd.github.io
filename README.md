@@ -46,11 +46,13 @@ Mechaten is another game where I have taken the role of Project Manager. Mechate
 
 Meteors is a game written in C++ with Directx 9 DirectDraw in Visual Studio. It was part of one of my assignments on my foundation course.
 
-Shown below is the visuals and some code.
+Shown below is the visuals and a link to the specification document showing all the code.
 
 <img src="Portfolio/Meteors/Meteors.png">
 
 <img src="Portfolio/Meteors/earth.png">
+
+[GitHub](http://github.com)
 
 ## Game of Life
 
