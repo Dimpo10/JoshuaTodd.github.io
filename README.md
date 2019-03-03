@@ -50,7 +50,7 @@ Shown below is the visuals and a link to the specification document and a ccp fi
 
 [Specification Document](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/Report.pdf)
 
-[CCP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/ddex4.cpp)
+[CPP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/ddex4.cpp)
 
 <img src="Portfolio/Meteors/Meteors.png">
 
@@ -67,7 +67,7 @@ The game is a simulation to replicate the original game of life with the rules:
 
 There are also a few extra small simulations in the menu system.
 
-[CCP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Game%20of%20life/GameOfLife.cpp)
+[CPP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Game%20of%20life/GameOfLife.cpp)
 
 <img src="Portfolio/Game of life/Images/Menu.PNG">
 
@@ -81,4 +81,4 @@ There are also a few extra small simulations in the menu system.
 
 In this porject the aim was to calculate all the prime numbers between 1 and 10000 in the shortest possible time, the code is optimised to the best of my ability.
 
-[CCP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Simple%20code%20to%20find%20prime%20numbers/PrimeNumbers.cpp)
+[CPP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Simple%20code%20to%20find%20prime%20numbers/PrimeNumbers.cpp)
