@@ -46,13 +46,15 @@ Mechaten is another game where I have taken the role of Project Manager. Mechate
 
 Meteors is a game written in C++ with Directx 9 DirectDraw in Visual Studio. It was part of one of my assignments on my foundation course.
 
-Shown below is the visuals and a link to the specification document showing all the code.
+Shown below is the visuals and a link to the specification document and a ccp file showing the main code.
+
+[Specification Document](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/Report.pdf)
+
+[CCP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/ddex4.cpp)
 
 <img src="Portfolio/Meteors/Meteors.png">
 
 <img src="Portfolio/Meteors/earth.png">
-
-[Specification Document](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Meteors/Report.pdf)
 
 ## Game of Life
 
@@ -65,6 +67,8 @@ The game is a simulation to replicate the original game of life with the rules:
 
 There are also a few extra small simulations in the menu system.
 
+[CCP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Game%20of%20life/GameOfLife.cpp)
+
 <img src="Portfolio/Game of life/Images/Menu.PNG">
 
 <img src="Portfolio/Game of life/Images/GOL.PNG">
@@ -74,3 +78,7 @@ There are also a few extra small simulations in the menu system.
 <img src="Portfolio/Game of life/Images/Move.PNG">
 
 ## Prime Numbers
+
+In this porject the aim was to calculate all the prime numbers between 1 and 10000 in the shortest possible time, the code is optimised to the best of my ability.
+
+[CCP file](https://github.com/Dimpo10/JoshuaTodd.github.io/blob/master/Portfolio/Simple%20code%20to%20find%20prime%20numbers/PrimeNumbers.cpp)
