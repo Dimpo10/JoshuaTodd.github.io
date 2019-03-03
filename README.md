@@ -48,9 +48,9 @@ Meteors is a game written in C++ with Directx 9 DirectDraw in Visual Studio. It 
 
 Shown below is the visuals and some code.
 
-<img src="Portfolio/Meteors/Images/Screenshot_2019-02-27-18-03-02-277_com.Name.InkSamurai.png">
+<img src="Portfolio/Meteors/Meteors.png">
 
-<img src="Portfolio/Ink%20Samurai/Images/Screenshot_2019-02-27-18-02-38-137_com.Name.InkSamurai.png">
+<img src="Portfolio/Meteors/earth.png">
 
 ## Game of Life
 
