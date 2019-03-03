@@ -65,8 +65,12 @@ The game is a simulation to replicate the original game of life with the rules:
 
 There are also a few extra small simulations in the menu system.
 
-<img src="Portfolio/Meteors/Meteors.png">
+<img src="Portfolio/Game of life/Images/Menu.PNG">
 
-<img src="Portfolio/Meteors/earth.png">
+<img src="Portfolio/Game of life/Images/GOL.PNG">
+
+<img src="Portfolio/Game of life/Images/Colours.PNG">
+
+<img src="Portfolio/Game of life/Images/Move.PNG">
 
 ## Prime Numbers
